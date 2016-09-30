@@ -41,7 +41,7 @@
     </tr>
     <tr>
         <td style="padding:6px"><strong>Version:</strong></td>
-        <td style="padding:6px">1.0</td>
+        <td style="padding:6px">1.1</td>
     </tr>
     <tr>
         <td style="padding:6px"><strong>Sources:</strong></td>
@@ -223,21 +223,31 @@
                                     <tr>
                                         <td style="padding:6px"><strong>(1) Chalkismos</strong></td>
                                         <td style="padding:6px">
-                                            <p>"After a player has set a coin spinning on the table and while the coin still spins freely with reasonably good amount of spin around its center axel, the player tries to stop it with an extended straight index finger without the coin bouncing away."</p>
-                                            <p>"The idea is to 'catch' or 'lock' the wildly spinning coin under the tip of a straight finger. Additionally it may be agreed upon that if any part of the coin extends under the first joint after the attempt, the attempt is considerd to be disqualified. Also it may be agreed upon that the remaing four fingertips of the primary hand must be placed on the table before an attempt to catch the coin is made."</p>
+                                            <p>"After a player has set a coin spinning on the table and while the coin still spins freely with reasonably good amount of spin around its center axel, the player tries to stop it with an extended straight index finger without the coin bouncing away."</p></td>
+                                   </tr>
+                                   <tr>
+                                        <td style="padding:6px"><strong></strong></td>
+                                        <td style="padding:6px"><p>"The idea is to 'catch' or 'lock' the wildly spinning coin under the tip of a straight finger. Additionally it may be agreed upon that if any part of the coin extends under the first joint after the attempt, the attempt is considerd to be disqualified. Also it may be agreed upon that the remaing four fingertips of the primary hand must be placed on the table before an attempt to catch the coin is made."</p>
                                         </td>
                                     </tr>
                                     <tr>
                                         <td style="padding:6px"><strong>(2) Capita aut navia?</strong></td>
                                         <td style="padding:6px">
-                                            <p>"In coin flipping (or coin tossing) an outcome is pronounced by each participant before a correct answer is revealed to the question, which side of a coin is facing upwards after the said coin has been tossed in the air. An ideal coin toss includes as many rotations around the coin's centre axel as possible (while the coin is still in the air). Linguistically oriented participants might call the obverse 'caput', if there's a single item depicted on the coin's obverse side, and 'capita' in case two or more similar items are depicted on the coin's obverse. Historically oriented participants might call the obverse 'capita' despite what is being depicted on it. The reverse is always called 'navia'."</p>
-                                            <p>"It is not always easy to decide what is heads and tails on a given coin. Numismatics defines the obverse and reverse of a coin rather than heads and tails. The obverse (principal side) of a coin typically features a symbol intended to be evocative of stately power, such as the head of a monarch or well-known state representative. In the case of coins that do not have royalty or state representatives on them, the side that features the name of the country is usually considered the obverse. Source: <a href="https://www.random.org/coins/">Coin Flipper</a>."</p>
+                                            <p>"In coin flipping (or coin tossing) an outcome is pronounced by each participant before a correct answer is revealed to the question, which side of a coin is facing upwards after the said coin has been tossed in the air. An ideal coin toss includes as many rotations around the coin's centre axel as possible (while the coin is still in the air). Linguistically oriented participants might call the obverse 'caput', if there's a single item depicted on the coin's obverse side, and 'capita' in case two or more similar items are depicted on the coin's obverse. Historically oriented participants might call the obverse 'capita' despite what is being depicted on it. The reverse is always called 'navia'."</p></td>
+                                   </tr>
+                                   <tr>
+                                        <td style="padding:6px"><strong></strong></td>
+                                        <td style="padding:6px"><p>"It is not always easy to decide what is heads and tails on a given coin. Numismatics defines the obverse and reverse of a coin rather than heads and tails. The obverse (principal side) of a coin typically features a symbol intended to be evocative of stately power, such as the head of a monarch or well-known state representative. In the case of coins that do not have royalty or state representatives on them, the side that features the name of the country is usually considered the obverse. Source: <a href="https://www.random.org/coins/">Coin Flipper</a>."</p>
                                         </td>
                                     </tr>
                                     <tr>
                                         <td style="padding:6px"><strong>(3) Coin toss</strong></td>
                                         <td style="padding:6px">
-                                            <p>"In coin flipping (or coin tossing) an outcome is pronounced by each participant before a correct answer is revealed to the question, which side of a coin is facing upwards after the said coin has been tossed in the air. An ideal coin toss includes as many rotations around the coin's centre axel as possible (while the coin is still in the air)."</p>
+                                            <p>"In coin flipping (or coin tossing) an outcome is pronounced by each participant before a correct answer is revealed to the question, which side of a coin is facing upwards after the said coin has been tossed in the air. An ideal coin toss includes as many rotations around the coin's centre axel as possible (while the coin is still in the air)."</p></td>
+                                   </tr>
+                                   <tr>
+                                        <td style="padding:6px"><strong></strong></td>
+                                        <td style="padding:6px">
                                             <p>"It is not always easy to decide what is heads and tails on a given coin. Numismatics defines the obverse and reverse of a coin rather than heads and tails. The obverse (principal side) of a coin typically features a symbol intended to be evocative of stately power, such as the head of a monarch or well-known state representative. In the case of coins that do not have royalty or state representatives on them, the side that features the name of the country is usually considered the obverse. Source: <a href="https://www.random.org/coins/">Coin Flipper</a>."</p>
                                         </td>
                                     </tr>
