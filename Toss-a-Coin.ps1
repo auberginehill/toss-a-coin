@@ -33,7 +33,7 @@ Begin {
     $help_text_coin_toss = "It is not always easy to decide what is heads and tails on a given coin. Numismatics defines the obverse and reverse of a coin rather than heads and tails. The obverse (principal side) of a coin typically features a symbol intended to be evocative of stately power, such as the head of a monarch or well-known state representative. In the case of coins that do not have royalty or state representatives on them, the side that features the name of the country is usually considered to be the obverse. Source: [https://www.random.org/coins/]"
     $help_text_chalkismos = "The idea is to 'catch' or 'lock' the wildly spinning coin under the tip of a straight finger. Additionally it may be agreed upon that if any part of the coin extends under the first joint after the attempt, the attempt is considerd to be disqualified. Also it may be agreed upon that the remaing four fingertips of the primary hand must be placed on the table before an attempt to catch the coin is made."
     $definition_coin_toss = "In coin flipping (or coin tossing) an outcome is pronounced by each participant before a correct answer is revealed to the question, which side of a coin is facing upwards after the said coin has been tossed in the air. An ideal coin toss includes as many rotations around the coin's centre axel as possible (while the coin is still in the air)."
-    $definition_capita_aut_navia = "In coin flipping (or coin tossing) an outcome is pronounced by each participant before a correct answer is revealed to the question, which side of a coin is facing upwards after the said coin has been tossed in the air. An ideal coin toss includes as many rotations around the coin's centre axel as possible (while the coin is still in the air). Linguistically oriented participants might call the obverse 'caput', if there's a single item depicted on the coin's obverse side, and 'capita' in case two or more similar items are depicted on the coin's obverse. Historically oriented participants might call the obverse 'capita' despite what is being depicted on it. The reverse is usually always called 'navia', but if so agreed upon, perhaps also the more linguistically correct 'naves' may be accepted as an alternative name to the traditional reverse side name of 'navia'. Please see the History section (inside the source code) for further debate on this subject."
+    $definition_capita_aut_navia = "In coin flipping (or coin tossing) an outcome is pronounced by each participant before a correct answer is revealed to the question, which side of a coin is facing upwards after the said coin has been tossed in the air. An ideal coin toss includes as many rotations around the coin's centre axel as possible (while the coin is still in the air). Linguistically oriented participants might call the obverse 'caput', if there's a single item depicted on the coin's obverse side, and 'capita' in case two or more similar items are depicted on the coin's obverse. Historically oriented participants might call the obverse 'capita' despite what is being depicted on it. The reverse is usually always called 'navia', but if so agreed upon, perhaps also the more linguistically correct forms may be accepted as an alternative name to the traditional reverse side name of 'navia'. Please see the History section (inside the source code) for further debate on this subject."
     $definition_chalkismos = "After a player has set a coin spinning on the table and while the coin still spins freely with reasonably good amount of spin around its center axel, the player tries to stop it with an extended straight index finger without the coin bouncing away."
 
 
@@ -618,7 +618,7 @@ and Brian Serwicki; Thomas M. Banchich, Supervisor
 
 In the first book of 'Fasti' (The Festivals), which was dedicated to Germanicus 
 (15 BC – AD 19, a.k.a. Germanicus Julius Caesar a.k.a. Nero Claudius Drusus or 
-Tiberius Claudius Nero), the author, P. Ovidius Naso a.k.a. Ovid (43 BC – AD 18), 
+Tiberius Claudius Nero), the author, P. Ovidius Naso (43 BC – AD 18), 
 a.k.a. Ovid) tells that while he had an encounter with Ianus, which was not just a 
 simple real-life revelation of god, but also a dialogue, too, with a god, Ianus 
 enlightened the author on varying subjects, such as why and how did he have such 
@@ -805,7 +805,7 @@ It cannot get more authorative than that, you heard the answear to the question
 figure on the other?" straight from Ianus himself, as narrated by Ovidius. 
 Apparently a fourth–fifth century Christian (Roman) writer and churchman Pontius 
 Paulinus Nolanus (c. AD 353—431, a.k.a. Pontius Meropius Anicius Paulinus a.k.a. 
-Paulinus of Nola (who, about after AD 409, was he was chosen to be the Bishop of 
+Paulinus of Nola (who, about after AD 409, was chosen to be the Bishop of 
 Nola)) had heard of this story as well, since he does describe matters in a similar 
 way, when he discusses briefly why some things are called as they are called and 
 with a striking similarity with Ovidius' view desciribes how the 'capita' became 
@@ -1371,7 +1371,7 @@ Please see the Description section below for definitions of each game.
                             participants might call the obverse 'capita' despite
                             what is being depicted on it. The reverse is usually
                             always called 'navia', but if so agreed upon, perhaps
-                            also the more linguistically correct 'naves' may be
+                            also the more linguistically correct forms may be
                             accepted as an alternative name to the traditional
                             reverse side name of 'navia'. Please see the History
                             section (inside the source code) for further debate on
