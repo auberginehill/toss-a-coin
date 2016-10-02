@@ -470,7 +470,7 @@ ___________________________
 
 Write-Verbose "Capita aut navia?" -verbose
 
-In antiquity withing the Roman cultural sphere, the commonly used name for the game
+In antiquity within the Roman cultural sphere, the commonly used name for the game
 of 'heads or tails' was 'capita aut navia' (heads or a ship), which, perhaps, could 
 also be considered as the original ancestral name of the game of 'heads or tails'. 
 The name might have derived from the early Roman Republic coinage that had the 
@@ -620,7 +620,7 @@ In the first book of 'Fasti' (The Festivals), which was dedicated to Germanicus
 (15 BC – AD 19, a.k.a. Germanicus Julius Caesar a.k.a. Nero Claudius Drusus or 
 Tiberius Claudius Nero), the author, P. Ovidius Naso (43 BC – AD 18), 
 a.k.a. Ovid) tells that while he had an encounter with Ianus, which was not just a 
-simple real-life revelation of god, but also a dialogue, too, with a god, Ianus 
+simple real-life revelation of a god, but also a dialogue, too, with a god, Ianus 
 enlightened the author on varying subjects, such as why and how did he have such 
 distinctively shaped head with two faces, and then promptly proceeded to answear all 
 the questions that Ovidius was eager to ask. The following is an exerpt of the 
@@ -891,13 +891,14 @@ throughout the centuries despite what was being depicted on the coins.
 
 'Navia', however, did become so enrooted in the cultural landscape of Rome, that even
 the early Church Fathers used it occasionally without a blink of an eye instead of 
-the more correct word forms. In addition to the aforementioned Bishop of Nola in 
-'De Anima et Eius Origine, Liber IV' (A Treatise on the Soul and Its Origin, Book IV)
-Chapter 20 [XIV] called 'Quisnam sit interior videamus: utrum anima, an spiritus, an 
-utrumque' (What kind of an inner man do we see: the soul, the spirit or both) 
-Aurelius Augustinus Hipponensis a.k.a. Augustine of Hippo (AD 354–430), while trying 
-to refute a worldview, in which a man consists of three parts (the outer, the inner 
-and the inmost) uses 'caput et navia' as a reference point (
+the more correct word forms, as demonstrated above by the Bishop of Nola. The word 
+'navia' is used in a more condemning manner by Aurelius Augustinus Hipponensis a.k.a. 
+Augustine of Hippo (AD 354–430) in 'De Anima et Eius Origine, Liber IV' (A Treatise on 
+the Soul and Its Origin, Book IV) Chapter 20 [XIV] called 'Quisnam sit interior 
+videamus: utrum anima, an spiritus, an utrumque' (What kind of an inner man do we see: 
+the soul, the spirit or both) where, while trying to refute a worldview, in which a man 
+consists of three parts (the outer, the inner and the inmost), Aurelius Augustinus 
+Hipponensis uses 'caput et navia' as a direct reference point (
 
 
                 "sicut in nummo dicitur 'caput et navia'"
