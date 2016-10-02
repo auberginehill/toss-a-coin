@@ -91,7 +91,7 @@
 
 
 <ol><ol>
-<img class="screenshot" title="screenshot" alt="screenshot" height="90%" width="90%" src="https://raw.githubusercontent.com/auberginehill/toss-a-coin/master/Toss-a-Coin.png"> 
+<img class="screenshot" title="screenshot" alt="screenshot" height="70%" width="70%" src="https://raw.githubusercontent.com/auberginehill/toss-a-coin/master/Toss-a-Coin.png">
 </ol></ol>
 
 
