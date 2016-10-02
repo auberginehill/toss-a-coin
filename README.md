@@ -236,7 +236,7 @@
                                     <tr>
                                         <td style="padding:6px"><strong>(2) Capita aut navia?</strong></td>
                                         <td style="padding:6px">
-                                            <p>"In coin flipping (or coin tossing) an outcome is pronounced by each participant before a correct answer is revealed to the question, which side of a coin is facing upwards after the said coin has been tossed in the air. An ideal coin toss includes as many rotations around the coin's centre axel as possible (while the coin is still in the air). In the game of 'Capita aut navia' linguistically oriented participants might call the obverse 'caput', if there's a single item depicted on the coin's obverse side, and 'capita' in case two or more similar items are depicted on the coin's obverse. Historically oriented participants might call the obverse 'capita' despite what is being depicted on it. The reverse is usually always called 'navia', but if so agreed upon, perhaps also the more linguistically correct 'naves' may be accepted as an alternative name to the traditional reverse side name of 'navia'. Please see the History section for further debate on this subject."</p></td>
+                                            <p>"In coin flipping (or coin tossing) an outcome is pronounced by each participant before a correct answer is revealed to the question, which side of a coin is facing upwards after the said coin has been tossed in the air. An ideal coin toss includes as many rotations around the coin's centre axel as possible (while the coin is still in the air). In the game of 'Capita aut navia' linguistically oriented participants might call the obverse 'caput', if there's a single item depicted on the coin's obverse side, and 'capita' in case two or more similar items are depicted on the coin's obverse. Historically oriented participants might call the obverse 'capita' despite what is being depicted on it. The reverse is usually always called 'navia', but if so agreed upon, perhaps also the more linguistically correct forms may be accepted as an alternative name to the traditional reverse side name of 'navia'. Please see the History section for further debate on this subject."</p></td>
                                    </tr>
                                    <tr>
                                         <td style="padding:6px"><strong></strong></td>
@@ -325,7 +325,7 @@
     <tr>
         <th></th>
         <td style="padding:6px">
-            <p>In antiquity withing the Roman cultural sphere, the commonly used name for the game of 'heads or tails' was 'capita aut navia' (heads or a ship), which, perhaps, could also be considered as the original ancestral name of the game of 'heads or tails'. The name might have derived from the early Roman Republic coinage that had the double-faced head of Ianus a.k.a. Janus on the obverse and the prow of a ship on the reverse. Ianus was a deity considered by Romans to be the first king of Latium on the site of the city before its foundation and was believed to have two faces: to see what was going on in front and behind him; who knew the past and foresaw the future. The prow of a ship or a full ship would resemble the ship on which Saturnus a.k.a. Saturn arrived to Ianiculum a.k.a. Janiculum after been expelled from the heavens by Iuppiter a.k.a. Jupiter a.k.a. Jove. The existence of such coins and the aforementioned backstory is hinted by an anonomous author in a short work called 'Origo Gentis Romanae' ("The Origins of the Roman People"), which was composed perhaps sometime in the fourth century AD, which used to be credited to the Roman historian Sextus Aurelius Victor (c. AD 320–390), but currently is not assigned to any particular author, where Ianus is said to be the one that directly taught the ancient Romans how to work with bronze and how to put the money in a form of a coin. Furhermore it seems to be indicated that on those coins on one side would be the head of Ianus, the mentor himself, and on the other side the ship that had brought Saturnus a.k.a. Saturn to Latium: [3] </p>
+            <p>In antiquity withing the Roman cultural sphere, the commonly used name for the game of 'heads or tails' was 'capita aut navia' (heads or a ship), which, perhaps, could also be considered as the original ancestral name of the game of 'heads or tails'. The name might have derived from the early Roman Republic coinage that had the double-faced head of Ianus a.k.a. Janus on the obverse and the prow of a ship on the reverse. Ianus was a deity considered by Romans to be the first king of Latium on the site of the city before its foundation and was believed to have two faces: to see what was going on in front and behind him; who knew the past and foresaw the future. The prow of a ship or a full ship would resemble the ship on which Saturnus a.k.a. Saturn arrived to Ianiculum a.k.a. Janiculum after been expelled from the heavens by Iuppiter a.k.a. Jupiter a.k.a. Jove. The existence of such coins and the aforementioned backstory is hinted by an anonomous author in a short work called '<i>Origo Gentis Romanae</i>' ("The Origins of the Roman People"), which was composed perhaps sometime in the fourth century AD, which used to be credited to the Roman historian Sextus Aurelius Victor (c. AD 320–390), but currently is not assigned to any particular author, where Ianus is said to be the one that directly taught the ancient Romans how to work with bronze and how to put the money in a form of a coin. Furhermore it seems to be indicated that on those coins on one side would be the head of Ianus, the mentor himself, and on the other side the ship that had brought Saturnus a.k.a. Saturn to Latium: [3] </p>
             <ol>
                 <ol>
                     <ol>
@@ -386,7 +386,7 @@
                     </ol>
                 </ol>
             </ol>
-            <p>In the first book of 'Fasti' (The Festivals), which was dedicated to Germanicus (15 BC – AD 19, a.k.a. Germanicus Julius Caesar a.k.a. Nero Claudius Drusus or Tiberius Claudius Nero), the author, P. Ovidius Naso a.k.a. Ovid (43 BC – AD 18), a.k.a. Ovid) tells that while he had an encounter with Ianus, which was not just a simple real-life revelation of god, but also a dialogue, too, with a god, Ianus enlightened the author on varying subjects, such as why and how did he have such distinctively shaped head with two faces, and then promptly proceeded to answear all the questions that Ovidius was eager to ask. The following is an exerpt of the dialogue between Ovidius and Ianus as per recorded by Ovidius, in which, for example, the expulsion of Saturnus from the celestial realms is reflected, and a godly answear to the question "Why is the figure of a ship stamped on one side of the copper coin, and a two-headed figure on the other?" is revealed:</p>
+            <p>In the first book of '<i>Fasti</i>' (The Festivals), which was dedicated to Germanicus (15 BC – AD 19, a.k.a. Germanicus Julius Caesar a.k.a. Nero Claudius Drusus or Tiberius Claudius Nero), the author, P. Ovidius Naso (43 BC – AD 18), a.k.a. Ovid) tells that while he had an encounter with Ianus, which was not just a simple real-life revelation of god, but also a dialogue, too, with a god, Ianus enlightened the author on varying subjects, such as why and how did he have such distinctively shaped head with two faces, and then promptly proceeded to answear all the questions that Ovidius was eager to ask. The following is an exerpt of the dialogue between Ovidius and Ianus as per recorded by Ovidius, in which, for example, the expulsion of Saturnus from the celestial realms is reflected, and a godly answear to the question "Why is the figure of a ship stamped on one side of the copper coin, and a two-headed figure on the other?" is revealed:</p>
             <ol>
                 <ol>
                     <ol>
@@ -442,7 +442,7 @@
                     </ol>
                 </ol>
             </ol>
-            <p>It cannot get more authorative than that, you heard the answear to the question "Why is the figure of a ship stamped on one side of the copper coin, and a two-headed figure on the other?" straight from Ianus himself, as narrated by Ovidius. Apparently a fourth–fifth century Christian (Roman) writer and churchman Pontius Paulinus Nolanus (c. AD 353—431, a.k.a. Pontius Meropius Anicius Paulinus a.k.a. Paulinus of Nola (who, about after AD 409, was he was chosen to be the Bishop of Nola)) had heard of this story as well, since he does describe matters in a similar way, when he discusses briefly why some things are called as they are called and with a striking similarity with Ovidius' view desciribes how the 'capita' became to signify one side of a coin and 'navia' the other side of the coin in this brief excerpt from one of his poems, which were mostly written in Nola, Campania, where each year after AD 395 he would write a poem in honor of the saint (St.) Felix, to whom he credited his conversion to and who actually was also buried in Nola: [7] </p>
+            <p>It cannot get more authorative than that, you heard the answear to the question "Why is the figure of a ship stamped on one side of the copper coin, and a two-headed figure on the other?" straight from Ianus himself, as narrated by Ovidius. Apparently a fourth–fifth century Christian (Roman) writer and churchman Pontius Paulinus Nolanus (c. AD 353—431, a.k.a. Pontius Meropius Anicius Paulinus a.k.a. Paulinus of Nola (who, about after AD 409, was chosen to be the Bishop of Nola)) had heard of this story as well, since he does describe matters in a similar way, when he discusses briefly why some things are called as they are called and with a striking similarity with Ovidius' view desciribes how the '<i>capita</i>' became to signify one side of a coin and '<i>navia</i>' the other side of the coin in this brief excerpt from one of his poems, which were mostly written in Nola, Campania, where each year after AD 395 he would write a poem in honor of the saint (St.) Felix, to whom he credited his conversion to and who actually was also buried in Nola: [7] </p>
             <ol>
                 <ol>
                     <ol>
@@ -457,7 +457,7 @@
                     </ol>
                 </ol>
             </ol>
-            <p>In the game of 'capita aut navia' itself, a play of the Roman youth or the "gamblers" <i>aleatores</i> mentioned above, a piece of money was thrown up to see whether the figure-side a.k.a. obverse (the double-faced head of Ianus) or the reverse-side (a ship) will fall uppermost. The heads of Ianus and the prora were first used in the Roman coinage around 225 BC, which might designate the earliest date for the invention of the game in its current form, though without any doubt children have been flinging coins before that with varying game-play modes. Children may, indeed, have something to do with the very name of the game itself, too, since the word 'navia' actually doesn't seem to be a proper Latin word at all: [9]</p>
+            <p>In the game of '<i>capita aut navia</i>' itself, a play of the Roman youth or the "gamblers" <i>aleatores</i> mentioned above, a piece of money was thrown up to see whether the figure-side a.k.a. obverse (the double-faced head of Ianus) or the reverse-side (a ship) will fall uppermost. The heads of Ianus and the prora were first used in the Roman coinage around 225 BC, which might designate the earliest date for the invention of the game in its current form, though without any doubt children have been flinging coins before that with varying game-play modes. Children may, indeed, have something to do with the very name of the game itself, too, since the word '<i>navia</i>' actually doesn't seem to be a proper Latin word at all: [9]</p>
             <ol>
                 <ol>
                     <ol>
@@ -465,20 +465,22 @@
                             <ol>
                                 <p><i>caput, capitis</i> = 'a head'</p>
                                 <p><i>navis, navis</i> = 'a ship'</p>
-                                <p><i>navia, naviae</i> = 'a ship' — A corruption of <i>navis</i>, 'a ship'; used for instance in the proverb '<i>aut caputa aut naviam</i>' [sic] instead of the more linguistically correct forms of '<i>aut caput aut navem</i>' (singular acc) or '<i>aut capita aut naves</i>' (plural acc) [10]</p>
+                                <p><i>navia, naviae</i> = 'a ship' — A corruption of <i>navis</i>, 'a ship'; used for instance in the proverb 
+                                <br />'<i>aut caputa aut naviam</i>' [sic] instead of the more linguistically correct forms of 
+                                <br /> '<i>aut caput aut navem</i>' (singular acc) or '<i>aut capita aut naves</i>' (plural acc) [10]</p>
                             </ol>
                         </ol>
                     </ol>
                 </ol>
             </ol>
-            <p>One of the earliest times that this linguistical atrocity rotting the very essence, how and in which way things are named, was in the fourth century in the third chapter of 'Origo Gentis Romanae' ("The Origins of the Roman People"), which used to be credited to the Roman historian Sextus Aurelius Victor (c. AD 320–390), but currently is not assigned to any particular author, where this unknown author pointed out, that it would be better to use 'navem' instead of the "vulgar" or "corrupted" word of 'navia'... </p>
+            <p>One of the earliest times that this linguistical atrocity rotting the very essence, how and in which way things are named, was in the fourth century in the third chapter of '<i>Origo Gentis Romanae</i>' ("The Origins of the Roman People"), which used to be credited to the Roman historian Sextus Aurelius Victor (c. AD 320–390), but currently is not assigned to any particular author, where this unknown author pointed out, that it would be better to use '<i>navem</i>' instead of the "vulgar" or "corrupted" word of '<i>navia</i>'... </p>
             <ol>
                 <ol>
                     <ol>
                         <ol>
                             <ol>
                                 <blockquote>
-                                <p>"Unde hodieque aleatores posito nummo opertoque optionem collusoribus ponunt enuntiandi, quid putent subesse: caput, aut navem; quod nunc vulgo corrumpentes naviam dicunt."</p>
+                                <p><i>"Unde hodieque aleatores posito nummo opertoque optionem collusoribus ponunt enuntiandi, quid putent subesse: caput, aut navem; quod nunc vulgo corrumpentes naviam dicunt."</i></p>
                                 <p>Author Unknown – Incerti Auctoris – <b>Sextus Aurelius Victor</b> (c. AD 320–390): 'Origo Gentis Romanae' (The Origins of the Roman People) 3:5. [11]</p>
                                 </blockquote>
                                 <h4>Translation</h4>
@@ -491,8 +493,8 @@
                     </ol>
                 </ol>
             </ol>
-            <p>It must be noted, though, that since the fourth century the vulgarity of the 'navia' term has faded gradually, and its usage has became more widely accepted (O tempore, o mores...), but still, one can only wonder, how this anomality came into being and furhermore, how it even surpassed the 'linguistically correct' version and flourished throughout the centuries despite what was being depicted on the coins.</p>
-            <p>'Navia', however, did become so enrooted in the cultural landscape of Rome, that even the early Church Fathers used it occasionally without a blink of an eye instead of the more correct word forms. In addition to the aforementioned Bishop of Nola in 'De Anima et Eius Origine, Liber IV' (A Treatise on the Soul and Its Origin, Book IV) Chapter 20 [XIV] called 'Quisnam sit interior videamus: utrum anima, an spiritus, an utrumque' (What kind of an inner man do we see: the soul, the spirit or both) Aurelius Augustinus Hipponensis a.k.a. Augustine of Hippo (AD 354–430), while trying to refute a worldview, in which a man consists of three parts (the outer, the inner and the inmost) uses 'caput et navia' as a reference point (
+            <p>It must be noted, though, that since the fourth century the vulgarity of the '<i>navia</i>' term has faded gradually, and its usage has became more widely accepted (O tempore, o mores...), but still, one can only wonder, how this anomality came into being and furhermore, how it even surpassed the 'linguistically correct' version and flourished throughout the centuries despite what was being depicted on the coins.</p>
+            <p>'Navia', however, did become so enrooted in the cultural landscape of Rome, that even the early Church Fathers used it occasionally without a blink of an eye instead of the more correct word forms. In addition to the aforementioned Bishop of Nola in '<i>De Anima et Eius Origine, Liber IV</i>' (A Treatise on the Soul and Its Origin, Book IV) Chapter 20 [XIV] called 'Quisnam sit interior videamus: utrum anima, an spiritus, an utrumque' (What kind of an inner man do we see: the soul, the spirit or both) Aurelius Augustinus Hipponensis a.k.a. Augustine of Hippo (AD 354–430), while trying to refute a worldview, in which a man consists of three parts (the outer, the inner and the inmost) uses '<i>caput et navia</i>' as a reference point (
             <ol>
                 <ol>
                     <ol>
@@ -541,7 +543,7 @@
                 </ol>
             </ol>
             <p>Despite Macrobius, too, says that Ianus was the first who impressed upon copper coins anything, the first figures may actually have been that of sheep and oxen by the legendary sixth king of Rome, Servius Tullius (578—535 BC) who in reality might also have been the first to have an impress made upon copper coins.[17]</p>
-            <p>Before Servius Tullius' time, according Τιμαῖος (c. 350–260 BC, a.k.a. Timaios a.k.a. Timaeus of Taormina a.k.a. Tauromenium a.k.a. Ταυρομένιον, who wrote 'The Histories' containing the history of Greece from its earliest days untill the first Punic war and was according to Πολύβιος (c. 200–118 BC, a.k.a. Polybius) popularly regarded as 'the first historian of Rome'), at Rome the raw metal only was used. [18] The form of a sheep was widely believed to be the first figure impressed upon money, and to this fact it was said it owes its name, 'pecunia.'[19]</p>
+            <p>Before Servius Tullius' time, according Τιμαῖος (c. 350–260 BC, a.k.a. Timaios a.k.a. Timaeus of Taormina a.k.a. Tauromenium a.k.a. Ταυρομένιον, who wrote '<i>The Histories</i>' containing the history of Greece from its earliest days untill the first Punic war and was according to Πολύβιος (c. 200–118 BC, a.k.a. Polybius) popularly regarded as 'the first historian of Rome'), at Rome the raw metal only was used. [18] The form of a sheep was widely believed to be the first figure impressed upon money, and to this fact it was said it owes its name, 'pecunia.'[19]</p>
             <p>Silver was not impressed with a mark until the year of the City 485 (269 BC), the year of the consulship of Q. Ogulnius Gallus and C. Fabius Pictor and five years before the First Punic War (264—241 BC), at which time it was ordained that the value of the currency should follow along similar lines to what is being depicted below: [20]</p>
             <ol>
                 <h4>Values in 269 BC:</h4>
@@ -575,8 +577,8 @@
                     </table>
                 </p>
             </ol>
-            <p>The weight, however, of the libra of copper was diminished during the First Punic War, as the republic was not having the means to meet its expenditure — in consequence of which, an ordinance was made that the 'as' [21] should in future be struck of two ounces weight. By this contrivance a saving of nearly five-sixths (82,7 %) was gained, and the public debt was liquidated. The impression upon these new "reduced" copper coins was a two-faced Ianus on one side, and the beak of a ship of war on the other: the triens (one third of an 'as') however, and the quadrans (one fourth of an 'as') bore the impression of a ship. The quadrans, too, had, previously to this, been called 'teruncius,' as being three unciae (one twelveth of an 'as') in weight. [22]</p>
-            <p>At a later period again, when Hannibal was pressing hard upon Rome, during the dictatorship of Q. Fabius Maximus Verrucosus Cunctator (c. 280—203 BC), asses of one ounce weight were struck, and it was ordained that the value of the currency should follow similar guidelines to which are depicted below:... [23]</p>
+            <p>The weight, however, of the <i>libra</i> of copper was diminished during the First Punic War, as the republic was not having the means to meet its expenditure — in consequence of which, an ordinance was made that the '<i>as</i>' [21] should in future be struck of two ounces weight. By this contrivance a saving of nearly five-sixths (82,7 %) was gained, and the public debt was liquidated. The impression upon these new "reduced" copper coins was a two-faced Ianus on one side, and the beak of a ship of war on the other: the triens (one third of an '<i>as</i>') however, and the quadrans (one fourth of an '<i>as</i>') bore the impression of a ship. The <i>quadrans</i>, too, had, previously to this, been called '<i>teruncius</i>', as being three <i>unciae</i> (one twelveth of an '<i>as</i>') in weight. [22]</p>
+            <p>At a later period again, when Hannibal was pressing hard upon Rome, during the dictatorship of Q. Fabius Maximus Verrucosus Cunctator (c. 280—203 BC), '<i>asses</i>' of one ounce weight were struck, and it was ordained that the value of the currency should follow similar guidelines to which are depicted below:... [23]</p>
             <ol>
                 <h4>Values in 218–204 BC:</h4>
                 <p>
@@ -608,7 +610,7 @@
                     </table>
                 </p>
             </ol>
-            <p>by which last reduction of the weight of the as the republic made a clear gain of one half. Still, however, so far as the pay of the soldiers was concerned, one denarius had always been given for every ten asses and that practice was prevalent until the state became dysfunctional. The impressions upon the coins of silver were two-horse and four-horse chariots, and hence it is that they received the names of '<i>bigatus, bigati</i>' and '<i>quadrigatus, quadrigati</i>'.[24] The 'as' kept diminshing in its value so that during the Cicero's time (106—43 BC) the 'as' had lost nearly all its value and the name 'as' had entered into idioms, such as...</p>
+            <p>by which last reduction of the weight of the '<i>as</i>' the republic made a clear gain of one half. Still, however, so far as the pay of the soldiers was concerned, one <i>denarius</i> had always been given for every ten '<i>asses</i>' and that practice was prevalent until the state became dysfunctional. The impressions upon the coins of silver were two-horse and four-horse chariots, and hence it is that they received the names of '<i>bigatus, bigati</i>' and '<i>quadrigatus, quadrigati</i>'.[24] The '<i>as</i>' kept diminshing in its value so that during the Cicero's time (106—43 BC) the '<i>as</i>' had lost nearly all its value and the name '<i>as</i>' had entered into idioms, such as...</p>
             <ol>
                 <h4>The Usage of '<i>as, assis</i>' in some of the Latin Idioms</h4>
                 <p>
@@ -641,7 +643,7 @@
     </tr>
     <tr>
         <th></th>
-        <td style="padding:6px">Footnotes
+        <td style="padding:6px"><h3>Footnotes</h3>
             <!--
   ______          _               _
  |  ____|        | |             | |
@@ -656,7 +658,6 @@
         <th></th>
         <td style="padding:6px">
             <ol>
-                <h4>Footnotes:</h4>
                 <p>
                     <table>
                         <tr>
@@ -859,7 +860,7 @@
                             <td style="padding:6px">[20]</td>
                             <td style="padding:6px">
                                 <ol>
-                                    <h4>One libra, librae:</h4>
+                                    <h4>One <i>libra, librae:</i></h4>
                                     <p>
                                         <table>
                                             <tr>
@@ -888,7 +889,7 @@
                             <td style="padding:6px">[21]</td>
                             <td style="padding:6px">
                                 <ol>
-                                    <h4>One as, assis:</h4>
+                                    <h4>One <i>as, assis:</i></h4>
                                     <p>
                                         <table>
                                             <tr>
