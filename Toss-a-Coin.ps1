@@ -58,11 +58,11 @@ Begin {
         } # else (if)
 
             If ($time_text.Contains(" 0 h")) {
-                $time_text = $time_text.Replace(" 0 h","")
+                $time_text = $time_text.Replace(" 0 h"," ")
                 } If ($time_text.Contains(" 0 min")) {
-                    $time_text = $time_text.Replace(" 0 min","")
+                    $time_text = $time_text.Replace(" 0 min"," ")
                     } If ($time_text.Contains(" 0 sec")) {
-                    $time_text = $time_text.Replace(" 0 sec","")
+                    $time_text = $time_text.Replace(" 0 sec"," ")
             } # if ($time_text: first)
 
     $time_text
